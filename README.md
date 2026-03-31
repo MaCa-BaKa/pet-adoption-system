@@ -1,5 +1,7 @@
-# 18
-# 宠物领养系统
+# 18-宠物领养系统
+
+[文档地址](http://wechat.zjrcsy.cn/)
+
 #### 介绍
 宠物领养系统 技术栈springboot+vue+msql
 
@@ -22,7 +24,4 @@
 ![宠物](https://github.com/MaCa-BaKa/pet-adoption-system/assets/102128690/83360cca-c44b-456c-959c-5de4cb218390)
 ![宠123](https://github.com/MaCa-BaKa/pet-adoption-system/assets/102128690/82026d62-1ead-4133-86a1-5077482862bc)
 
-**
-
-# 需要本系统联系vx: MaKaBaca0
-**
+[文档地址](http://wechat.zjrcsy.cn/)
